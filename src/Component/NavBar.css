@@ -1,6 +1,6 @@
 .navitem {
   display: flex;
   flex-direction: row;
-  width: 100vw;
+  width: auto;
   justify-content: space-between;
 }
